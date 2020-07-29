@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/marilia/precache-manifest.4eeb043f83d4467464f7360dd60036ca.js"
+  "/marilia/precache-manifest.c8799f1fc37a73adbab69846812f6dd1.js"
 );
 
 self.addEventListener('message', (event) => {
